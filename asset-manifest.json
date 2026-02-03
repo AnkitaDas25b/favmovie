@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/favmovie/static/js/main.bdf34378.js",
+    "index.html": "/favmovie/index.html",
+    "main.bdf34378.js.map": "/favmovie/static/js/main.bdf34378.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bdf34378.js"
+  ]
+}
